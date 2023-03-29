@@ -6,6 +6,7 @@ Também foi utilizada a biblioteca Gson do google para desserializar o JSON da r
 ## Demonstração AULA - 01
 
 - Retornar a lista de filmes mais populares de forma personalizada no terminal.
+- Adicionado funcionalidade em que o usuário escolhe as opções de API que ele quer acessar.
 
 <p float="right">
  <img src="https://cdn.discordapp.com/attachments/445423084485214208/1090422113866891294/image.png" />
