@@ -1,18 +1,15 @@
-## Getting Started
+# Imersão Alura ☕ Java 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Dia 1: Nessa etapa foi utilizada a api do IMDB requisitando o endpoint que retorna os 250 melhores filmes. (Obs como a API do IMDB estava apresentando instabilidades foram utilizados a API recomendada pelo ALURA) Para isso foi utilizado o pacote java.net que fornece todas as ferramentas para estabelecer a conexão client-server.
+Também foi utilizada a biblioteca Gson do google para desserializar o JSON da requisição e armazenar as informções em objetos Java.
 
-## Folder Structure
+## Demonstração AULA - 01
 
-The workspace contains two folders by default, where:
+- Retornar a lista de filmes mais populares de forma personalizada no terminal.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<p float="right">
+ <img src="https://cdn.discordapp.com/attachments/445423084485214208/1090422113866891294/image.png" />
+ <img src="https://cdn.discordapp.com/attachments/445423084485214208/1090422338077597706/image.png" />
+</p>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<img src="https://cdn.discordapp.com/attachments/445423084485214208/1090423371671548024/image.png"/>
